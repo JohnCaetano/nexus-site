@@ -1,0 +1,1 @@
+Coloque aqui as fotos dos produtos (jpg/webp, ideal quadradas, ~800x800) e informe o caminho em js/config.js.
