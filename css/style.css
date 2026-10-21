@@ -242,3 +242,10 @@ footer p{margin:0}
 footer .credit{margin-top:8px;font-size:13px}
 footer .credit a{color:var(--blue2);font-weight:600}
 footer .credit a:hover{text-decoration:underline}
+/* ===== BOTÃO "PEDIR" NO CELULAR E FOTOS QUEBRADAS ===== */
+.pfoot .btn{text-align:center;white-space:nowrap;padding-left:12px;padding-right:12px}
+@media(max-width:600px){
+  .pfoot .btn .long{display:none}
+  .pfoot .btn{font-size:14px}
+}
+.slider{font-size:0}
