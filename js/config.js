@@ -11,7 +11,7 @@ var LINKS = {ig:"https://instagram.com/nexus_impressoes", tt:"https://tiktok.com
 var PRODUCTS = [
   {name:"NarutoVerso", cat:"Action Figures", desc:"Personagens de Naruto 3D personalizados.", images:["images/produtos/Naruto/RaposaChibi.jpg", "images/produtos/Naruto/KakashiChibi.jpg", "images/produtos/Naruto/Gaara.jpg"]},
   {name:"Eeveelution", cat:"Action Figures", desc:"Chibi das Evoluções da Eevee", images:["images/produtos/Eeevolution/TrioEvo.jpg", "images/produtos/Eeevolution/Jolteon.jpg", "images/produtos/Eeevolution/Flareon.jpg"]},
-  {name:"Hollow Knigth", cat:"Action Figures", desc:"Action Hollow Kight Chibi", images:["images/produtos/Hollowk/Hol1.jpg", "images/produtos/HollowK/Hol2.jpg", "images/produtos/HollowK/Hol3.jpg"]},
+  {name:"Hollow Knigth", cat:"Action Figures", desc:"Action Hollow Kight Chibi", images:["images/produtos/HollowK/Hol1.jpg", "images/produtos/HollowK/Hol2.jpg", "images/produtos/HollowK/Hol3.jpg"]},
   {name:"Caixinha Minimalista", cat:"Natal", desc:"Caixinha Minimalista feita em 3D", images:["images/produtos/Caixas/Caixa1.jpg", "images/produtos/Caixas/Caixa2.jpg", "images/produtos/Caixas/Caixa3.jpg"]},
   {name:"Kit Natal feito em 3D", cat:"Natal", desc:"Kit Natalino especial.", images:["images/produtos/Natalina/KitNatal1.jpg", "images/produtos/Natalina/KitNatal2.png", "images/produtos/Natalina/KitNatal3.png"]},
   {name:"Karambit CS", cat:"Gamer", desc:"Modelo Karambit CS feito em 3D.", images:["images/produtos/Karambit/Karam1.jpg", "images/produtos/Karambit/Karam2.jpg"]},
